@@ -1,0 +1,6 @@
+name : sajal
+age : 23
+server :
+  name : "ubuntu"
+  capacity : 50GB
+
